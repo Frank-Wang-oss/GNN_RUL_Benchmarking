@@ -71,4 +71,4 @@ If you found this work useful for you, please consider citing it (paper will be 
 
 ## Acknowledgement
 
-We appreciate the code from [ADATIME](https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset) and [the dataset link](https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset)
+We appreciate the code from [ADATIME](https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset) and [Dataset link](https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset)
