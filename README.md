@@ -43,7 +43,7 @@ python main.py  --experiment_description exp1  \
 
 
 ## Citation
-If you found this work useful for you, please consider citing it (paper will be available soon).
+If you found this work useful for you, please consider citing it.
 ```
 @misc{wang2024surveygraphneuralnetworks,
       title={A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends}, 
