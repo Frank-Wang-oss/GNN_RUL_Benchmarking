@@ -1,11 +1,6 @@
-# Graph Neural Network for Remaining Useful Life Prediction Benchmarking [[Paper]()] 
+# Graph Neural Network for Remaining Useful Life Prediction Benchmarking [[Paper](https://arxiv.org/pdf/2409.19629)] 
 
 
-[//]: # (<p align="center">)
-
-[//]: # (<img src="misc/temporal_adapt.PNG" width="900" class="center">)
-
-[//]: # (</p>)
 
 ## Requirmenets:
 - Python3
@@ -49,24 +44,18 @@ python main.py  --experiment_description exp1  \
 
 ## Citation
 If you found this work useful for you, please consider citing it (paper will be available soon).
+```
+@misc{wang2024surveygraphneuralnetworks,
+      title={A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends}, 
+      author={Yucheng Wang and Min Wu and Xiaoli Li and Lihua Xie and Zhenghua Chen},
+      year={2024},
+      eprint={2409.19629},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.19629}, 
+}
 
-[//]: # (```)
-
-[//]: # (@inproceedings{mpau,)
-
-[//]: # (  author = {Ragab, Mohamed and Eldele, Emadeldeen and Foo, Chuan-Sheng and Wu, Min and Li, Xiaoli and Chen, Zhenghua},)
-
-[//]: # (  title = {Source-Free Domain Adaptation with Temporal Imputation for Time Series Data},)
-
-[//]: # (  booktitle={29th SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track},)
-
-[//]: # (  year = {2023},)
-
-[//]: # (  url={https://openreview.net/forum?id=v6GK0ijPW0B})
-
-[//]: # (})
-
-[//]: # (```)
+```
 
 
 ## Acknowledgement
